@@ -1,2 +1,1 @@
-# travel-images
-qdywxs-travel images
+# qdywxs-travel-images
